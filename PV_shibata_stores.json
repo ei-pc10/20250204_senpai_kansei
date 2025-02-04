@@ -1,0 +1,82 @@
+{
+    "caption": "SHIBATA_street",
+    "members": [
+      {
+        "num": "1",
+        "場所": "桜",
+        "model": "sakura.glb",
+        "position": "",
+        "rotation": "",
+        "scale": "1 1 1",
+        "animation": "",
+        "latitude": "37.956296639834825",
+        "longitude": "139.33769872162506"
+      },
+      {
+        "num": "2",
+        "場所": "こったまーや",
+        "model": "kottamaya.glb",
+        "position": "",
+        "rotation": "",
+        "scale": "0.03 0.03 0.03",
+        "animation": "",
+        "latitude": "37.9584489943575",
+        "longitude": "139.34264597477087"
+      },
+      {
+        "num": "3",
+        "場所": "新発田城",
+        "model": "shibatajyo.glb",
+        "position": "",
+        "rotation": "",
+        "scale": "0.5 0.5 0.5",
+        "animation": "",
+        "latitude": "37.95474094660365",
+        "longitude": "139.32598240586483"
+      },
+      {
+        "num": "4",
+        "場所": "煉瓦屋",
+        "model": "renga.glb",
+        "position": "",
+        "rotation": "",
+        "scale": "2 2 2",
+        "animation": "",
+        "latitude": "37.94892959990337",
+        "longitude": "139.32432669317228"
+      },
+      {
+        "num": "5",
+        "場所": "新発田市章",
+        "model": "shibata_logo.glb",
+        "position": "",
+        "rotation": "",
+        "scale": "2 2 2",
+        "animation": "",
+        "latitude": "37.94822800327645",
+        "longitude": "139.327420987668"
+      },
+      {
+        "num": "6",
+        "場所": "諏訪ノ森喫茶室",
+        "model": "suwanomori_clock.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "1.5 1.5 1.5",
+        "animation": "",
+        "latitude": "37.944355706564394",
+        "longitude": "139.33082423638757"
+      },
+      {
+        "num": "7",
+        "場所": "新発田市役所",
+        "model": "siyakusyo1.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "0.1 0.1 0.1",
+        "animation": "",
+        "latitude": "37.94822800327645",
+        "longitude": "139.327420987668"
+      }
+    ]
+  }
