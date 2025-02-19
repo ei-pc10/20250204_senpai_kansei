@@ -19,19 +19,8 @@
      renderer="logarithmicDepthBuffer: true"
  >
 <!-- light="defaultLightsEnabled: false" -->
-
-     
-     <!-- 細川くんのモデルちびキャラ -->
-        <a-entity
-            gltf-model="hosokawa_bob.glb"
-            position="0 0 0"
-            scale="4 4 4"
-            look-at="[gps-camera]"
-            gps-entity-place="latitude: 37.95623964531757; longitude: 139.3371717973987"
-	    animation-mixer>
-        </a-entity>
-     
-     <a-camera gps-camera="minDistance:5; maxDistance:5000"></a-camera>
+	 
+     <a-camera gps-camera="minDistance:5; maxDistance:500000"></a-camera>
 
      
     </a-scene>
